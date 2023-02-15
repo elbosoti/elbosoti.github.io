@@ -1,5 +1,6 @@
+---
 layout: page
-title: "Contact"
-permalink: /contact
-
+title: Contact
+permalink: /contact/
+---
 My Linkedin: <URL>
