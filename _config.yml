@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: moonwalk
+remote_theme: Moonwalk
 plugins:
   - jekyll-feed
 
