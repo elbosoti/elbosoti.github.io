@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Github Pages using Jekyll"
 date:   2023-02-19 10:28:30 -0700
 categories: jekyll update
